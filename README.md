@@ -1,4 +1,4 @@
-# GDSC-Web
+# FRONTEND
 A responsive figma design of Saflow with light as well as dark mode.
 <br><br>
 # tablet view dark mode
@@ -16,3 +16,24 @@ A responsive figma design of Saflow with light as well as dark mode.
 # Mobile view light mode and dark mode
 ![ss5](https://user-images.githubusercontent.com/65123755/189190968-cddb62dd-74bb-4e1e-ad98-16042afd6fe5.png)
 ![ss3](https://user-images.githubusercontent.com/65123755/189190947-b3c782f9-207a-4f71-99b7-7e549513645c.png)
+
+
+
+# BACKEND
+1) Install dependencies<br>
+py pip install django <br>
+py pip install djangorestframework <br>
+py manage.py runserver (run on localhost)<br>
+
+localhost (display all books)<br> 
+![localhost](https://user-images.githubusercontent.com/65123755/189274448-f1be422a-2d53-4dc7-974a-63750b78b266.png)
+
+..../api/ (display all books in json)<br>
+![api](https://user-images.githubusercontent.com/65123755/189274478-0fc0d6b6-2255-40a6-ac30-d6bc340b0f0c.png)
+
+..../api/add/ (add new book in json)<br>
+![new_book](https://user-images.githubusercontent.com/65123755/189274485-dd0e127f-286e-4dfb-aa24-f0696a6a53dd.png)
+
+
+
+
